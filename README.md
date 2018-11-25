@@ -7,7 +7,7 @@
 - Building application for production and its deployment on Heroku server.
 
 ### Deploy from Heroku cloud server
-[Cryptocurrency App](http://udemy-react-coin.herokuapp.com/currency/ripple)
+[Cryptocurrency App](http://udemy-react-coin.herokuapp.com)
 
 ### Install dependencies
 
